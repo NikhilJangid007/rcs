@@ -1,13 +1,14 @@
 {
-    "room": "Lazyroom",
-    "author": "Nikhil",
-    "css": "https://rawgit.com/NikhilJangid007/rcs/master/rcs.css",
+    "room":                     "TheBros",
+    "author":                   "justniik",
+    "css":                      "https://rawgit.com/NikhilJangid007/rcs/master/rcs.css",
+    "icon":                     "http://i.imgur.com/FKme63a.png",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
         "allowAutojoin": true,
         "allowAutograb": true,
-        "allowSmartVote": false,
+        "allowSmartVote": true,
         "allowEmotes": true,
         "allowShowingMehs": false,
         "forceSmartVote": false
