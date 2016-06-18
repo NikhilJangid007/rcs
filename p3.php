@@ -84,6 +84,7 @@
     "images": {
         "background": "http://i.imgur.com/u36VR4n.png",
         "booth": "",
+        "playback": "",
     "icons":{
          "host": "http://i.imgur.com/pFxec23.png",
         "cohost": "http://i.imgur.com/JYOmwwC.png",
